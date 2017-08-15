@@ -1,2 +1,2 @@
-# TechWeb
+# TecWeb
 Repositório para aula Web
